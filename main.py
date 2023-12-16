@@ -33,9 +33,13 @@ this is our multi line comment
 # print("type of the data is ", type(person))
 
 # operator in python 
-print(15 / 6) #return exact number
-print(15 // 7) #return round figure (floor number)
-print(15 % 6) #return the reminder after division
-print(5 * 5) #multiplication
-print(5 ** 3) #exponential
-print("the addition of two numberis is : ", 5 , "+" , 5)
+# print(15 / 6) #return exact number
+# print(15 // 7) #return round figure (floor number)
+# print(15 % 6) #return the reminder after division
+# print(5 * 5) #multiplication
+# print(5 ** 3) #exponential
+# print("the addition of two numberis is : ", 5 , "+" , 5)
+
+import sultan 
+ 
+sultan.welcome()

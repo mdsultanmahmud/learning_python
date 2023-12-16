@@ -25,3 +25,6 @@
 print("pass function")
 def checkLessNum(n1,n2):
     pass #you can write later
+
+def welcome():
+    print("Welcome man!!!")
