@@ -1,5 +1,6 @@
 '''
 its not necessary to use static method, just learn it. 
+static function is a common function which initialize into the class with @staticmethod decorators and use as common function. 
 '''
 
 class Math:
